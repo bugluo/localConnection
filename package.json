@@ -1,0 +1,13 @@
+{
+    "name": "localConnect",
+    "version": "1.0.0",
+    "keywords" : ["util"],
+    "repository": {
+        "url": "http://add.corp.qihoo.net/pages/viewpage.action?pageId=8051482",
+        "type": "git"
+    },
+    "homepage": "http://add.corp.qihoo.net/pages/viewpage.action?pageId=8051482",
+    "maintainers": ["杨茂 <yangmao@360.cn>"],
+    "description": "通过flash进行同一浏览器跨页面，跨内核的通讯。",
+    "output": "localConnect.js"
+}
